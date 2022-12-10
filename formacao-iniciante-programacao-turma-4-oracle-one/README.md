@@ -1,2 +1,4 @@
 # formacao-logica-de-programacao-turma-4-oracle-one
- inicio dia 30
+
+- Iniciada em: 30/11/2022
+- Concluída em : 10/12/2022
